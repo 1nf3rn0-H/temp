@@ -1,5 +1,5 @@
 # Welcome to my profile
-![int](text.png)
+<img src="https://github.com/1n40/temp/blob/master/intro.gif?raw=true" style="width:50%"><img src="https://github.com/1n40/temp/blob/master/image.png?raw=true" style="width:50%">
 
 SEND
 ```http
