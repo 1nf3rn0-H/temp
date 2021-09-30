@@ -1,5 +1,5 @@
 # Welcome to my profile
-![int](intro.gif)
+![int](text.png)
 
 SEND
 ```http
