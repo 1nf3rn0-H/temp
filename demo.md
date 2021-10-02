@@ -1,7 +1,17 @@
 # Welcome to my profile
-<img src="https://github.com/1n40/temp/blob/master/intro.gif?raw=true" style="width:50%"><img src="https://github.com/1n40/temp/blob/master/image.png?raw=true" style="width:50%">
+<img src="https://github.com/1n40/temp/blob/master/intro.gif?raw=true">
 
-SEND
+---
+
+<img src="https://github.com/1n40/temp/blob/master/sleek.png?raw=true">
+<!-- img src="https://github.com/1n40/temp/blob/master/image.png?raw=true" style="width:50%"-->
+
+
+
+<!-- img src="https://github.com/1n40/temp/blob/master/top-bt.png?raw=true" align="right" style="width:50%" -->
+
+<!--
+> ### Sent:
 ```http
 POST /Introduction HTTP/1.1
 Host: 127.0.0.1:5000
@@ -15,8 +25,10 @@ Connection: close
 
 cmd=whoami
 ```
-
-RECEIVE
+-->
+<!-- img src="https://github.com/1n40/temp/blob/master/bott.png?raw=true" align="right" style="width:50%" -->
+ 
+> ### Recieved:         
 ```http
 HTTP/1.0 200 OK
 Content-Type: application/json
@@ -33,6 +45,9 @@ Server: Werkzeug/2.0.1 Python/3.9.0
 }
 ```
 
+
+    
+    
 Get in touch with me through the attached links:  
 
 <a href="https://www.linkedin.com/in/mikhail-chigrin/">
