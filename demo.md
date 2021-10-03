@@ -8,7 +8,7 @@
                                                                                   
                                                                                   
                                                                                   
-- [ ] Change this Gif -> Walking man
+- [x] Change this Gif -> Walking man
 - [ ] Keep comments for challenges
 - [ ] An Obfuscated file
 
@@ -38,9 +38,11 @@ cmd=whoami
  
 <img src="https://github.com/1n40/temp/blob/master/walk.gif?raw=true" align="right" width="25%">
 
-### Put here a gif of curl to this link:  
 
 ```http
+$ curl -i localhost
+
+
 HTTP/1.0 200 OK
 Content-Type: application/json
 Content-Length: 265
