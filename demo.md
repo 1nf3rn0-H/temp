@@ -1,13 +1,20 @@
 # Welcome to my profile
-<img src="https://github.com/1n40/temp/blob/master/intro.gif?raw=true">
 
+
+
+<!-- img src="https://github.com/1n40/temp/blob/master/intro.gif?raw=true" width="50%">
+<img src="https://github.com/1n40/temp/blob/master/intro.gif?raw=true" width="30%"-->
+
+                                                                                  
+                                                                                  
+                                                                                  
 - [ ] Change this Gif -> Walking man
 - [ ] Keep comments for challenges
 - [ ] An Obfuscated file
 
 <!-- img src="https://github.com/1n40/temp/blob/master/image.png?raw=true" style="width:50%"-->
 
-
+<img src="https://github.com/1n40/temp/blob/master/intro.gif?raw=true">
 
 <!-- img src="https://github.com/1n40/temp/blob/master/top-bt.png?raw=true" align="right" style="width:50%" -->
 
@@ -29,7 +36,9 @@ cmd=whoami
 -->
 <!-- img src="https://github.com/1n40/temp/blob/master/bott.png?raw=true" align="right" style="width:50%" -->
  
-### Put here a gif of curl to this link:
+<img src="https://github.com/1n40/temp/blob/master/walk.gif?raw=true" align="right" width="25%">
+
+### Put here a gif of curl to this link:  
 
 ```http
 HTTP/1.0 200 OK
