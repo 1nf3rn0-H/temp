@@ -1,31 +1,13 @@
-# Welcome to my profile
+<h1 align="center">Just another profile readme</h1>
 
-
-
-<!-- img src="https://github.com/1n40/temp/blob/master/intro.gif?raw=true" width="50%">
-<img src="https://github.com/1n40/temp/blob/master/intro.gif?raw=true" width="30%"-->
-
-                                                                                  
-                                                                                  
-                                                                                  
-- [x] Change this Gif -> Walking man
-- [ ] Keep comments for challenges
-- [ ] An Obfuscated file
-
-<!-- img src="https://github.com/1n40/temp/blob/master/image.png?raw=true" style="width:50%"-->
 
 <img src="https://github.com/1n40/temp/blob/master/intro.gif?raw=true">
-
-<!-- img src="https://github.com/1n40/temp/blob/master/top-bt.png?raw=true" align="right" style="width:50%" -->
-
-
-<!-- img src="https://github.com/1n40/temp/blob/master/bott.png?raw=true" align="right" style="width:50%" -->
  
 <img src="https://github.com/1n40/temp/blob/master/walk.gif?raw=true" align="right" width="25%">
 
 
 ```http
-$ http GET ################
+$ http GET localhost/intro.html?cmd=whoami
 
 
 HTTP/1.0 200 OK
@@ -46,24 +28,16 @@ Server: Werkzeug/2.0.1 Python/3.9.0
 
     
     
-
-<img align="left" width="31%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1n40&&show_icons=true&hide_border=true&theme=blue-green"/>
-
-
+<br>
+<img align="left" width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1n40&&show_icons=true&hide_border=true&theme=blue-green"/>
 <img align="right" width="62%" src="https://github-readme-stats.vercel.app/api?username=1n40&count_private=true&show_icons=true&hide_border=true&theme=blue-green" href="https://github.com/1n40"/>
+<br>
+
+
+
+<img align="centre" src="https://github.com/1n40/temp/blob/master/sleek.png?raw=true">
 
 ---
-
-<img src="https://github.com/1n40/temp/blob/master/sleek.png?raw=true">
-
-Get in touch with me through the attached links:  
-
-<a href="https://www.linkedin.com/in/harsh-mehta-a74283198/">
-  <img alt="Harsh's LinkedIn" src="https://img.shields.io/badge/-LinkedIn-1A4730?style=flat-square&logo=Linkedin&logoColor=white" />
-</a>
-<a href="https://t.me/frozrt">
-  <img alt="Mikhail's Telegram" src="https://img.shields.io/badge/-Telegram-1A4730?style=flat-square&logo=Telegram&logoColor=white" />
-</a>
-<a href="mailto:harsh227011@gmail.com">
-  <img alt="Mikhail's Email" src="https://img.shields.io/badge/-E--mail-1A4730?style=flat-square&logo=Gmail&logoColor=white" />
-</a>
+<p>
+<a href="https://www.linkedin.com/in/harsh-mehta-a74283198" title="linkedin" ><img src="https://github.com/get-icon/geticon/raw/master/icons/linkedin.svg" width="16%" height="4%"></a>  <a href="mailto:harsh227011@gmail.com" title="gmail"><img align="right" src="https://img.icons8.com/fluency/48/000000/gmail-new.png" width="5%" height="5%"></a>
+</p>
