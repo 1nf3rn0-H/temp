@@ -18,29 +18,14 @@
 
 <!-- img src="https://github.com/1n40/temp/blob/master/top-bt.png?raw=true" align="right" style="width:50%" -->
 
-<!--
-> ### Sent:
-```http
-POST /Introduction HTTP/1.1
-Host: 127.0.0.1:5000
-Content-Length: 10
-Content-Type: application/x-www-form-urlencoded
-User-Agent: MySuperBrowser (Windows NT 10.0; Win64; x64)
-Accept: text/html
-Accept-Encoding: gzip, deflate
-Accept-Language: en-US,en;q=0.9
-Connection: close
 
-cmd=whoami
-```
--->
 <!-- img src="https://github.com/1n40/temp/blob/master/bott.png?raw=true" align="right" style="width:50%" -->
  
 <img src="https://github.com/1n40/temp/blob/master/walk.gif?raw=true" align="right" width="25%">
 
 
 ```http
-$ curl -i localhost
+$ http GET ################
 
 
 HTTP/1.0 200 OK
@@ -62,9 +47,10 @@ Server: Werkzeug/2.0.1 Python/3.9.0
     
     
 
+<img align="left" width="31%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1n40&&show_icons=true&hide_border=true&theme=blue-green"/>
 
 
-
+<img align="right" width="62%" src="https://github-readme-stats.vercel.app/api?username=1n40&count_private=true&show_icons=true&hide_border=true&theme=blue-green" href="https://github.com/1n40"/>
 
 ---
 
